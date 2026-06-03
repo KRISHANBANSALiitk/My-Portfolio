@@ -182,14 +182,4 @@ Joint routing and installation scheduling.
 
 ---
 
-# Contact
-
-📧 Email: [krishank24@iitk.ac.in](mailto:krishank24@iitk.ac.in)
-
-💻 GitHub: https://github.com/KRISHANBANSALiitk
-
-🔗 LinkedIn: https://www.linkedin.com/in/krishan-bansal-24208b187/
-
----
-
 *Last Updated: June 2026*
