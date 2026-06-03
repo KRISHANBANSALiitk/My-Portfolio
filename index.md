@@ -6,7 +6,7 @@
 
 Helping organizations solve logistics, supply chain, pricing and analytics problems using Operations Research and Machine Learning.
 
-[📄 Resume](resume.pdf) | [💻 GitHub](https://github.com/KRISHANBANSALiitk) | [🔗 LinkedIn](https://www.linkedin.com/in/krishan-bansal-24208b187/) | [✉️ Email](mailto:krishank24@iitk.ac.in)
+[📄 Resume](myresume.pdf) | [💻 GitHub](https://github.com/KRISHANBANSALiitk) | [🔗 LinkedIn](https://www.linkedin.com/in/krishan-bansal-24208b187/) | [✉️ Email](mailto:bansalkrishan2012@gmail.com)
 
 ---
 
